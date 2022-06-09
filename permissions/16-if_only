@@ -1,2 +1,2 @@
 #!/bin/bash
-if [u=guillaume]; then chowm vincent hello 
+chown --from=guillaume vincent hello 
