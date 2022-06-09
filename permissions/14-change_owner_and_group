@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff /permissions/alu-shell
+chown -R vincent-staff: permissions/alu-shell
