@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 #Displays best school 10 times but for the 9th iteration dsiplays best school and then hi on a new line
-COUNT=9
 while((Count>=0));
 do
    echo "Best School"
