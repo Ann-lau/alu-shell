@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #Displays the time for 12 hours and 59 minutes
 COUNT=0
-while((COUNT<=12)0;do
+while((COUNT<=12))0;do
 	echo "Hour: $COUNT"
 	HOUR=1
 	While((HOUR<=59));do
