@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #Gives you information about the school file
 FILE=$( find . -name "school" |cut -d "/" -f2)
-if [-e "$FILE" ] ;then
+        if [ -e "$FILE" ] ;then
 	echo "school file exists"
 	if [ -s "$FILE" ] ;then
 		echo "school file is not empty"
