@@ -2,7 +2,7 @@
 #Highlander
 trap "echo I am invincible!!!; exit" SIGTERM
 while :
-echo 'To infinty and beyond'
 do
-sleep 2
+	echo 'To infinity and beyond'
+	sleep 2
 done
